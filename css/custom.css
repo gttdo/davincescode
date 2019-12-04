@@ -1,0 +1,25 @@
+.logo {
+  position: relative;
+}
+.freelance_logo {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.company-image img {
+  width: 25%;
+  margin-bottom: 2rem;
+}
+
+.map {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.map img {
+  width: 100%;
+}

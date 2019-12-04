@@ -1,0 +1,22 @@
+{
+  "name": "gv-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiepareja/g.git"
+  },
+  "author": "gerardo vinces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackiepareja/g/issues"
+  },
+  "homepage": "https://github.com/jackiepareja/g#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2"
+  }
+}
